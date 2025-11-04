@@ -21,13 +21,17 @@ Lee Shan Yan
 ## Results (visuals)
 
 **Most dangerous early-game locations (Erangel)**
+
 ![Most dangerous locations](figures/most_dangerous_locations.jpg)
 
 **Bluezone progression**
+
 ![Bluezone progression](figures/final_bluezone.jpg)
 
 **Probability to win vs. party size**
+
 ![Probability to win](figures/prob_to_win.jpg)
 
-**Top 15 weapons (sample)**
+**Top 15 weapons**
+
 ![Top 15 weapons](figures/top_15_weapons.jpg)
