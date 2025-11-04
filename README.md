@@ -7,6 +7,15 @@
 - `data/final_agg_match_stats.csv`
 - `reports/Data Pre-processing.html` – how the raw data was cleaned and reduced
 - `reports/Data Analysis and Visualisation.html` – analysis & charts (KDE maps, etc.)
+- ## Notebooks
+
+You can view the notebooks directly on GitHub:
+
+- **Data Pre-processing** → [`scripts/Data Pre-processing.ipynb`](scripts/Data%20Pre-processing.ipynb)  
+  Steps to clean, reduce, and standardize the raw PUBG data (Erangel focus).
+
+- **Data Analysis & Visualisation** → [`scripts/Data Analysis and Visualisation.ipynb`](scripts/Data%20Analysis%20and%20Visualisation.ipynb)  
+  Exploratory analysis and charts (KDE maps, party size vs win rate, weapons, bluezone).
 
 ## Highlights
 - Focus on **Erangel** for consistent comparisons  
@@ -23,8 +32,8 @@ Download this repo and open the HTML reports in your browser for a guided tour o
 </p>
 
 <p align="center">
-  <img src="figures/top_15_weapons.jpg" alt="Bluezone progression" width="48%">
-  <img src="figures/prob_to_win.jpg" alt="Probability to win" width="48%">
+  <img src="figures/prob_to_win.jpg" alt="Bluezone progression" width="48%">
+  <img src="figures/top_15_weapons.jpg" alt="Probability to win" width="55%">
 </p>
 
 ## Author
