@@ -1,0 +1,10 @@
+# basics
+.DS_Store
+Thumbs.db
+
+# python/jupyter (future-proof)
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
+.envrc
