@@ -17,21 +17,14 @@
 Download this repo and open the HTML reports in your browser for a guided tour of the preprocessing and analysis.
 
 ## Results (visuals)
-
-<!-- Centered, 70% width -->
-<p align="center">
-  <img src="figures/most_dangerous_locations.jpg" alt="Most dangerous locations" width="70%">
-</p>
-
-<!-- Two images side-by-side -->
 <p align="center">
   <img src="figures/final_bluezone.jpg" alt="Bluezone progression" width="48%">
-  <img src="figures/prob_to_win.jpg" alt="Probability to win" width="48%">
+  <img src="figures/most_dangerous_locations.jpg" alt="Probability to win" width="48%">
 </p>
 
-<!-- Fixed pixel width -->
 <p align="center">
-  <img src="figures/top_15_weapons.jpg" alt="Top 15 weapons" width="700">
+  <img src="figures/top_15_weapons.jpg" alt="Bluezone progression" width="48%">
+  <img src="figures/prob_to_win.jpg" alt="Probability to win" width="48%">
 </p>
 
 ## Author
