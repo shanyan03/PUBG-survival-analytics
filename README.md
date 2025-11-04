@@ -17,4 +17,4 @@
 Download this repo and open the HTML reports in your browser for a guided tour of the preprocessing and analysis.
 
 ## Author
-Lee Shan Yan — “Skills can be taught, but character is who you are.”
+Lee Shan Yan 
