@@ -1,6 +1,6 @@
 # PUBG Survival Analytics: From Raw Data to Playable Insights
 
-**One-liner:** First-year data science project turning two messy PUBG datasets into clear tips for beginners—party size, safer early-game landings, weapons, assisting teammates, movement choices, and bluezone timing.
+**One-liner:** First-year data science project turning two messy PUBG datasets into clear tips for beginners-party size, safer early-game landings, weapons, assisting teammates, movement choices, and bluezone timing.
 
 ## What’s here
 - `data/final_kill_match_stats.csv`
