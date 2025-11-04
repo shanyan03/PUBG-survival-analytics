@@ -16,22 +16,24 @@
 ## Getting started
 Download this repo and open the HTML reports in your browser for a guided tour of the preprocessing and analysis.
 
-## Author
-Lee Shan Yan 
 ## Results (visuals)
 
-**Most dangerous early-game locations (Erangel)**
+<!-- Centered, 70% width -->
+<p align="center">
+  <img src="figures/most_dangerous_locations.jpg" alt="Most dangerous locations" width="70%">
+</p>
 
-![Most dangerous locations](figures/most_dangerous_locations.jpg)
+<!-- Two images side-by-side -->
+<p align="center">
+  <img src="figures/final_bluezone.jpg" alt="Bluezone progression" width="48%">
+  <img src="figures/prob_to_win.jpg" alt="Probability to win" width="48%">
+</p>
 
-**Bluezone progression**
+<!-- Fixed pixel width -->
+<p align="center">
+  <img src="figures/top_15_weapons.jpg" alt="Top 15 weapons" width="700">
+</p>
 
-![Bluezone progression](figures/final_bluezone.jpg)
+## Author
+Lee Shan Yan 
 
-**Probability to win vs. party size**
-
-![Probability to win](figures/prob_to_win.jpg)
-
-**Top 15 weapons**
-
-![Top 15 weapons](figures/top_15_weapons.jpg)
